@@ -1,5 +1,6 @@
 Introduction
-Climate Change is one of the most debatable topic now days. But what exactly is causing this climate change and how is it impacting our environment. Scientists attribute the global warming trend observed since the mid-20th century to the human expansion of the "greenhouse effect" — warming that results when the atmosphere traps heat radiating from Earth toward space.Some of the greenhouse gases in the atmosphere are CO2 , methane , nitrogen.
+
+Climate Change: is one of the most debatable topic now days. But what exactly is causing this climate change and how is it impacting our environment. Scientists attribute the global warming trend observed since the mid-20th century to the human expansion of the "greenhouse effect" — warming that results when the atmosphere traps heat radiating from Earth toward space.Some of the greenhouse gases in the atmosphere are CO2 , methane , nitrogen.
 
 Global greenhouse gas emissions continue to rise, at a time when they need to be rapidly falling. To effectively reduce emissions we need to know where they are coming from – which sectors contribute the most? How can we use this understanding to develop effective solutions and mitigation strategies?
 
